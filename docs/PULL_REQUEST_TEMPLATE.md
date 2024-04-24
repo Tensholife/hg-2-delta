@@ -4,7 +4,6 @@ PULL_REQUEST_TEMPLATE
 - [ ] Bravo 
 - [ ] Charlie
 - [ ] Delta
-- [ ] Echo
 
 # Tecnología
 - [ ] HTML 
