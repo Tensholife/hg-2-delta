@@ -2,7 +2,7 @@
                     
 | Integrante  | Alias | Tipo
 | ------------- | ------------- | ------------- |
-| 🔧 Joseph Gonzalez | Alpha | Titular del Repositorio |
+| 🔧 Joseph Gonzalez | Alpha | Invitado del Repositorio |
 | 🔧 Armando Garcia | Bravo | Invitado del Repositorio |
 | 🔧 Andreina Polanco | Charlie | Invitado del Repositorio |
-| 👷 Daniel Mendez | Delta | Invitado del Repositorio |
+| 👷 Daniel Mendez | Delta | Titular del Repositorio |
